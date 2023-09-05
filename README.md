@@ -64,7 +64,7 @@
 
     openssl req -x509 -newkey rsa:2048 -keyout private.key -out public.crt -nodes -days 1000
 
-Output private.key & public.crt
+#### Output private.key & public.crt
 
 ![image](https://github.com/arliputraa/neo4j-https-ssl/assets/110078907/e9f6a6c1-0e00-4b5c-b739-d4a34238562a)
 
